@@ -11,6 +11,7 @@
   # if it is icy, print "yak traks"
 
   weather = 'sunny'
+  
 
   if weather == 'sunny'
     p "sunscreen"

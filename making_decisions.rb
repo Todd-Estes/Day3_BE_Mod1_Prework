@@ -11,6 +11,7 @@ if door == "1"
 
   print "> "
   bear = $stdin.gets.chomp
+  
 
   if bear == "1"
     puts "The bear eats your face off.  Good job!"
